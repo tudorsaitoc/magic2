@@ -1,0 +1,23 @@
+.landing, .button, .navbar-fixed-top {
+	background-color: green;
+}
+.index-container li a, .menu a, .menu a:visited, .navbar-default .navbar-nav>li>a:active, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover, a, ul.nav li.dropdown:hover>a {
+	color: green;
+}
+a:active, a:hover, .menu a:hover{
+	color: green;	
+}
+ .tt-menu:before {
+ 	border-bottom-color: green;
+ } 
+.paginationLink {
+	border-color: green;
+}
+.paginationLink:hover {
+	background: green;
+	border-color: green;
+}
+.megamenu> li > ul > li.dropdown-header > a {
+  color: green;
+  border-bottom-color: green;
+}
