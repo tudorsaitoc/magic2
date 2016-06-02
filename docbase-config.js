@@ -8,8 +8,8 @@ var docbaseConfig = {
     "path": "boilerplate_docs"
   },
   "github": {
-    "user": "",
-    "repo": "",
+    "user": "tudorsaitoc",
+    "repo": "magic2",
     "path": "",
     "branch": "",
     "access_token": ""
