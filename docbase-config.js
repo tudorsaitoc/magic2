@@ -10,9 +10,9 @@ var docbaseConfig = {
   "github": {
     "user": "tudorsaitoc",
     "repo": "magic2",
-    "path": "",
-    "branch": "",
-    "access_token": ""
+    "path": "magic2",
+    "branch": "master",
+    "access_token": "3894cb23bfd252e1b574d60c8142e12d948614bf"
   },
   "indexHtml": "./html/main.html",
   "flatdocHtml": "./bower_components/docbase/html/flatdoc.html",
